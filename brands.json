@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Bounty",
+        "parent": "Procter & Gamble (P&G)",
+        "product": "Paper towels and napkins",
+        "warnings": [
+            "Child labor",
+            "Low wages",
+            "Heavy polluter"
+        ]
+    },
+    {
+        "name": "Tide",
+        "parent": "Procter & Gamble (P&G)",
+        "product": "Laundry detergents",
+        "warnings": [
+            "Prison labor",
+            "Child labor",
+            "Low wages",
+            "Heavy polluter"
+        ]
+    },
+    {
+        "name": "Tampax",
+        "parent": "Procter & Gamble (P&G)",
+        "product": "Tampons",
+        "warnings": [
+            "Child labor",
+            "Low wages",
+            "Heavy polluter"
+        ]
+    },
+    {
+        "name": "Always",
+        "parent": "Procter & Gamble (P&G)",
+        "product": "Menstrual hygiene products",
+        "warnings": [
+            "Prison labor",
+            "Child labor",
+            "Low wages",
+            "Heavy polluter"
+        ]
+    },
+    {
+        "name": "Febreze",
+        "parent": "Procter & Gamble (P&G)",
+        "product": "Air freshener",
+        "warnings": [
+            "Prison labor",
+            "Child labor",
+            "Low wages",
+            "Heavy polluter"
+        ]
+    },
+    {
+        "name": "Gain",
+        "parent": "Procter & Gamble (P&G)",
+        "product": "Detergent",
+        "warnings": [
+            "Prison labor",
+            "Child labor",
+            "Low wages",
+            "Heavy polluter"
+        ]
+    }
+]
