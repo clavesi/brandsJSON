@@ -51,16 +51,5 @@
             "Low wages",
             "Heavy polluter"
         ]
-    },
-    {
-        "name": "Gain",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Detergent",
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ]
     }
 ]
