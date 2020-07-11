@@ -54,4 +54,15 @@
             "Heavy polluter"
         ]
     }
+    {
+        "name": "HangTen",
+        "parent": "Glocer and Preamble",
+        "product": "Freedom",
+        "warnings": [
+            "NA",
+            "NA",
+            "NA",
+            "Heavy polluter"
+        ]
+    }
 ]
