@@ -4,6 +4,7 @@
         "parent": "Procter & Gamble (P&G)",
         "product": "Paper towels and napkins",
         "warnings": [
+            "NA",
             "Child labor",
             "Low wages",
             "Heavy polluter"
@@ -25,6 +26,7 @@
         "parent": "Procter & Gamble (P&G)",
         "product": "Tampons",
         "warnings": [
+            "NA",
             "Child labor",
             "Low wages",
             "Heavy polluter"
