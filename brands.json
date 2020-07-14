@@ -3,6 +3,7 @@
         "name": "Bounty",
         "parent": "Procter & Gamble (P&G)",
         "product": "Paper towels and napkins",
+        "logo": true,
         "warnings": [
             "NA",
             "Child labor",
@@ -14,6 +15,7 @@
         "name": "Tide",
         "parent": "Procter & Gamble (P&G)",
         "product": "Laundry detergents",
+        "logo": true,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -25,6 +27,7 @@
         "name": "Tampax",
         "parent": "Procter & Gamble (P&G)",
         "product": "Tampons",
+        "logo": true,
         "warnings": [
             "NA",
             "Child labor",
@@ -36,6 +39,7 @@
         "name": "Always",
         "parent": "Procter & Gamble (P&G)",
         "product": "Menstrual hygiene products",
+        "logo": true,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -47,6 +51,7 @@
         "name": "Febreze",
         "parent": "Procter & Gamble (P&G)",
         "product": "Air freshener",
+        "logo": true,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -58,6 +63,7 @@
         "name": "Gain",
         "parent": "Procter & Gamble (P&G)",
         "product": "Detergent",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -69,6 +75,7 @@
         "name": "Swiffer",
         "parent": "Procter & Gamble (P&G)",
         "product": "Cleaning products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -80,6 +87,7 @@
         "name": "Pantene",
         "parent": "Procter & Gamble (P&G)",
         "product": "Hair care products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -91,6 +99,7 @@
         "name": "Head & Shoulders",
         "parent": "Procter & Gamble (P&G)",
         "product": "Shampoo",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -102,6 +111,7 @@
         "name": "Olay",
         "parent": "Procter & Gamble (P&G)",
         "product": "Skin care products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -113,6 +123,7 @@
         "name": "Old Spice",
         "parent": "Procter & Gamble (P&G)",
         "product": "Men's grooming products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -124,6 +135,7 @@
         "name": "Gillette",
         "parent": "Procter & Gamble (P&G)",
         "product": "Razors",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -135,6 +147,7 @@
         "name": "Venus",
         "parent": "Procter & Gamble (P&G)",
         "product": "Razors",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -146,6 +159,7 @@
         "name": "Crest",
         "parent": "Procter & Gamble (P&G)",
         "product": "Oral hygiene products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -157,6 +171,7 @@
         "name": "Oral-B",
         "parent": "Procter & Gamble (P&G)",
         "product": "Oral hygiene products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -168,6 +183,7 @@
         "name": "Pepsi",
         "parent": "PepsiCo",
         "product": "Soda/Pop",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -179,6 +195,7 @@
         "name": "Mountain Dew",
         "parent": "PepsiCo",
         "product": "Soda/Pop",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -190,6 +207,7 @@
         "name": "Dr. Pepper",
         "parent": "Keurig Dr Pepper",
         "product": "Soda/Pop",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -201,6 +219,7 @@
         "name": "Aquafina",
         "parent": "PepsiCo",
         "product": "Bottled water",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -212,6 +231,7 @@
         "name": "Gatorade",
         "parent": "PepsiCo",
         "product": "Sports drink",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -223,6 +243,7 @@
         "name": "Ocean Spray",
         "parent": "Ocean Spray",
         "product": "Cranberry and grapefruit products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -234,6 +255,7 @@
         "name": "Slim Jim",
         "parent": "Conagra",
         "product": "Beef jerky",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -245,6 +267,7 @@
         "name": "PAM",
         "parent": "Conagra",
         "product": "Cooking spray",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -256,6 +279,7 @@
         "name": "Orville Redenbacher's",
         "parent": "Conagra",
         "product": "Popcorn",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -267,6 +291,7 @@
         "name": "Reddi-Wip",
         "parent": "Conagra",
         "product": "Whipped cream",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -278,6 +303,7 @@
         "name": "Peter Pan",
         "parent": "Conagra",
         "product": "Peanut butter",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -289,6 +315,7 @@
         "name": "Act II",
         "parent": "Conagra",
         "product": "Popcorn",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -300,6 +327,7 @@
         "name": "Aunt Jemima",
         "parent": "PepsiCo",
         "product": "Pancake mixes and syrup",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -311,6 +339,7 @@
         "name": "Hunt's Snack Pack",
         "parent": "Conagra",
         "product": "Pudding",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -322,6 +351,7 @@
         "name": "Chef Boyardee",
         "parent": "Conagra",
         "product": "Canned pasta",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -333,6 +363,7 @@
         "name": "Kid Cuisine",
         "parent": "Conagra",
         "product": "Frozen dinner",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -344,6 +375,7 @@
         "name": "ChapStick",
         "parent": "Pfizer",
         "product": "Lip balm",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -355,6 +387,7 @@
         "name": "Advil",
         "parent": "Pfizer",
         "product": "Ibuprofen - pain reliever",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -366,6 +399,7 @@
         "name": "ThermaCare",
         "parent": "Angelini",
         "product": "Heating pads",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -377,6 +411,7 @@
         "name": "Robitussin",
         "parent": "Pfizer",
         "product": "Cold medicine",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -388,6 +423,7 @@
         "name": "Emergen-C",
         "parent": "Pfizer ",
         "product": "Vitamin supplements",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -399,6 +435,7 @@
         "name": "Xanax",
         "parent": "Pfizer",
         "product": "Alprazolam - anxiety disorders",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -410,6 +447,7 @@
         "name": "Zoloft",
         "parent": "Pfizer",
         "product": "Sertraline - mood and anxiety disorders",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -421,6 +459,7 @@
         "name": "Clarinex",
         "parent": "Merck & Co.",
         "product": "Deloradtadine - allergies",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -432,6 +471,7 @@
         "name": "Dixie",
         "parent": "Koch Industries",
         "product": "Paper products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -443,6 +483,7 @@
         "name": "Angel Soft",
         "parent": "Koch Industries",
         "product": "Toilet paper",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -454,6 +495,7 @@
         "name": "Brawny",
         "parent": "Koch Industries",
         "product": "Paper towels",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -465,6 +507,7 @@
         "name": "Visine/Vispring",
         "parent": "Johnson & Johnson",
         "product": "Eye drops",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -476,6 +519,7 @@
         "name": "Motrin",
         "parent": "Johnson & Johnson",
         "product": "Ibuprofen - pain reliever",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -487,6 +531,7 @@
         "name": "Neutrogena",
         "parent": "Johnson & Johnson",
         "product": "Skin and face care",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -498,6 +543,7 @@
         "name": "Clean & Clear",
         "parent": "Johnson & Johnson",
         "product": "Skin care products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -509,6 +555,7 @@
         "name": "Tylenol",
         "parent": "Johnson & Johnson",
         "product": "Acetaminophen - pain reliever",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -520,6 +567,7 @@
         "name": "Neosporin",
         "parent": "Johnson & Johnson",
         "product": "Antibiotics",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -531,6 +579,7 @@
         "name": "Listerine",
         "parent": "Johnson & Johnson",
         "product": "Mouthwash",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -542,6 +591,7 @@
         "name": "Biotene",
         "parent": "GSK",
         "product": "Oral hygiene products",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -553,6 +603,7 @@
         "name": "Band-Aid",
         "parent": "Johnson & Johnson",
         "product": "Adhesive bandages",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -564,6 +615,7 @@
         "name": "Benadryl",
         "parent": "Johnson & Johnson",
         "product": "Diphenhydramine - allergies",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -575,6 +627,7 @@
         "name": "Purell",
         "parent": "Gojo Industries",
         "product": "Hand sanitizer",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -586,6 +639,7 @@
         "name": "Avenova",
         "parent": "NovaBay",
         "product": "Eyelid and eyelash cleanser",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -597,6 +651,7 @@
         "name": "Flonase",
         "parent": "GSK",
         "product": "Nasal spray",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -608,6 +663,7 @@
         "name": "Tums",
         "parent": "GSK",
         "product": "Antacid",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -619,6 +675,7 @@
         "name": "TheraFlu",
         "parent": "GSK",
         "product": "Flu medicine",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -630,6 +687,7 @@
         "name": "Nicorette",
         "parent": "GSK (US) / Johnson & Johnson (Elsewhere)",
         "product": "Nicotine replacement",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -641,6 +699,7 @@
         "name": "Flintstones Gummies",
         "parent": "Bayer",
         "product": "Multivitamin",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -652,6 +711,7 @@
         "name": "Acuvue",
         "parent": "Johnson & Johnson",
         "product": "Contact lenses",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -663,6 +723,7 @@
         "name": "Prozac",
         "parent": "Eli Lilly",
         "product": "Fluoxetine - mood and anxiety disorders",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -674,6 +735,7 @@
         "name": "Alka-Seltzer",
         "parent": "Bayer",
         "product": "Antacid",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -685,6 +747,7 @@
         "name": "Claritin",
         "parent": "Merck & Co.",
         "product": "Loratadine - allergies",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -696,6 +759,7 @@
         "name": "Midol",
         "parent": "Bayer",
         "product": "Menstrual cramping",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
@@ -707,6 +771,7 @@
         "name": "One A Day",
         "parent": "Bayer",
         "product": "Multivitamin",
+        "logo": false,
         "warnings": [
             "Prison labor",
             "Child labor",
