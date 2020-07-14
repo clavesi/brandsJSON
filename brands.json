@@ -5,7 +5,6 @@
         "product": "Paper towels and napkins",
         "logo": true,
         "warnings": [
-            "NA",
             "Child labor",
             "Low wages",
             "Heavy polluter"
@@ -29,7 +28,6 @@
         "product": "Tampons",
         "logo": true,
         "warnings": [
-            "NA",
             "Child labor",
             "Low wages",
             "Heavy polluter"
