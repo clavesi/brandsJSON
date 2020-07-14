@@ -1,780 +1,786 @@
-[
+{
     {
         "name": "Bounty",
         "parent": "Procter & Gamble (P&G)",
         "product": "Paper towels and napkins",
         "logo": true,
-        "warnings": [
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ]
+        "warnings": {
+            "Child labor": [
+                "https://twitter.com/home"
+            ],
+            "Low wages": [
+                "https://twitter.com/home"
+            ],
+            "Heavy polluter": [
+                "https://twitter.com/home"
+            ]
+        }
     },
     {
         "name": "Tide",
         "parent": "Procter & Gamble (P&G)",
         "product": "Laundry detergents",
         "logo": true,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Tampax",
         "parent": "Procter & Gamble (P&G)",
         "product": "Tampons",
         "logo": true,
-        "warnings": [
+        "warnings": {
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Always",
         "parent": "Procter & Gamble (P&G)",
         "product": "Menstrual hygiene products",
         "logo": true,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Febreze",
         "parent": "Procter & Gamble (P&G)",
         "product": "Air freshener",
         "logo": true,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Gain",
         "parent": "Procter & Gamble (P&G)",
         "product": "Detergent",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Swiffer",
         "parent": "Procter & Gamble (P&G)",
         "product": "Cleaning products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Pantene",
         "parent": "Procter & Gamble (P&G)",
         "product": "Hair care products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Head & Shoulders",
         "parent": "Procter & Gamble (P&G)",
         "product": "Shampoo",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Olay",
         "parent": "Procter & Gamble (P&G)",
         "product": "Skin care products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Old Spice",
         "parent": "Procter & Gamble (P&G)",
         "product": "Men's grooming products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Gillette",
         "parent": "Procter & Gamble (P&G)",
         "product": "Razors",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Venus",
         "parent": "Procter & Gamble (P&G)",
         "product": "Razors",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Crest",
         "parent": "Procter & Gamble (P&G)",
         "product": "Oral hygiene products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Oral-B",
         "parent": "Procter & Gamble (P&G)",
         "product": "Oral hygiene products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Pepsi",
         "parent": "PepsiCo",
         "product": "Soda/Pop",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Mountain Dew",
         "parent": "PepsiCo",
         "product": "Soda/Pop",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Dr. Pepper",
         "parent": "Keurig Dr Pepper",
         "product": "Soda/Pop",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Aquafina",
         "parent": "PepsiCo",
         "product": "Bottled water",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Gatorade",
         "parent": "PepsiCo",
         "product": "Sports drink",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Ocean Spray",
         "parent": "Ocean Spray",
         "product": "Cranberry and grapefruit products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Slim Jim",
         "parent": "Conagra",
         "product": "Beef jerky",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "PAM",
         "parent": "Conagra",
         "product": "Cooking spray",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Orville Redenbacher's",
         "parent": "Conagra",
         "product": "Popcorn",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Reddi-Wip",
         "parent": "Conagra",
         "product": "Whipped cream",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Peter Pan",
         "parent": "Conagra",
         "product": "Peanut butter",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Act II",
         "parent": "Conagra",
         "product": "Popcorn",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Aunt Jemima",
         "parent": "PepsiCo",
         "product": "Pancake mixes and syrup",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Hunt's Snack Pack",
         "parent": "Conagra",
         "product": "Pudding",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Chef Boyardee",
         "parent": "Conagra",
         "product": "Canned pasta",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Kid Cuisine",
         "parent": "Conagra",
         "product": "Frozen dinner",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "ChapStick",
         "parent": "Pfizer",
         "product": "Lip balm",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Advil",
         "parent": "Pfizer",
         "product": "Ibuprofen - pain reliever",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "ThermaCare",
         "parent": "Angelini",
         "product": "Heating pads",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Robitussin",
         "parent": "Pfizer",
         "product": "Cold medicine",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Emergen-C",
         "parent": "Pfizer ",
         "product": "Vitamin supplements",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Xanax",
         "parent": "Pfizer",
         "product": "Alprazolam - anxiety disorders",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Zoloft",
         "parent": "Pfizer",
         "product": "Sertraline - mood and anxiety disorders",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Clarinex",
         "parent": "Merck & Co.",
         "product": "Deloradtadine - allergies",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Dixie",
         "parent": "Koch Industries",
         "product": "Paper products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Angel Soft",
         "parent": "Koch Industries",
         "product": "Toilet paper",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Brawny",
         "parent": "Koch Industries",
         "product": "Paper towels",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Visine/Vispring",
         "parent": "Johnson & Johnson",
         "product": "Eye drops",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Motrin",
         "parent": "Johnson & Johnson",
         "product": "Ibuprofen - pain reliever",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Neutrogena",
         "parent": "Johnson & Johnson",
         "product": "Skin and face care",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Clean & Clear",
         "parent": "Johnson & Johnson",
         "product": "Skin care products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Tylenol",
         "parent": "Johnson & Johnson",
         "product": "Acetaminophen - pain reliever",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Neosporin",
         "parent": "Johnson & Johnson",
         "product": "Antibiotics",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Listerine",
         "parent": "Johnson & Johnson",
         "product": "Mouthwash",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Biotene",
         "parent": "GSK",
         "product": "Oral hygiene products",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Band-Aid",
         "parent": "Johnson & Johnson",
         "product": "Adhesive bandages",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Benadryl",
         "parent": "Johnson & Johnson",
         "product": "Diphenhydramine - allergies",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Purell",
         "parent": "Gojo Industries",
         "product": "Hand sanitizer",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Avenova",
         "parent": "NovaBay",
         "product": "Eyelid and eyelash cleanser",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Flonase",
         "parent": "GSK",
         "product": "Nasal spray",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Tums",
         "parent": "GSK",
         "product": "Antacid",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "TheraFlu",
         "parent": "GSK",
         "product": "Flu medicine",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Nicorette",
         "parent": "GSK (US) / Johnson & Johnson (Elsewhere)",
         "product": "Nicotine replacement",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Flintstones Gummies",
         "parent": "Bayer",
         "product": "Multivitamin",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Acuvue",
         "parent": "Johnson & Johnson",
         "product": "Contact lenses",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Prozac",
         "parent": "Eli Lilly",
         "product": "Fluoxetine - mood and anxiety disorders",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Alka-Seltzer",
         "parent": "Bayer",
         "product": "Antacid",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Claritin",
         "parent": "Merck & Co.",
         "product": "Loratadine - allergies",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "Midol",
         "parent": "Bayer",
         "product": "Menstrual cramping",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     },
     {
         "name": "One A Day",
         "parent": "Bayer",
         "product": "Multivitamin",
         "logo": false,
-        "warnings": [
+        "warnings": {
             "Prison labor",
             "Child labor",
             "Low wages",
             "Heavy polluter"
-        ]
+        }
     }
-]
+}
