@@ -1,4 +1,4 @@
-{
+[
     {
         "name": "Bounty",
         "parent": "Procter & Gamble (P&G)",
@@ -22,10 +22,10 @@
         "product": "Laundry detergents",
         "logo": true,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -34,9 +34,9 @@
         "product": "Tampons",
         "logo": true,
         "warnings": {
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -45,10 +45,10 @@
         "product": "Menstrual hygiene products",
         "logo": true,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -57,10 +57,10 @@
         "product": "Air freshener",
         "logo": true,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -69,10 +69,10 @@
         "product": "Detergent",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -81,10 +81,10 @@
         "product": "Cleaning products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -93,10 +93,10 @@
         "product": "Hair care products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -105,10 +105,10 @@
         "product": "Shampoo",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -117,10 +117,10 @@
         "product": "Skin care products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -129,10 +129,10 @@
         "product": "Men's grooming products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -141,10 +141,10 @@
         "product": "Razors",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -153,10 +153,10 @@
         "product": "Razors",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -165,10 +165,10 @@
         "product": "Oral hygiene products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -177,10 +177,10 @@
         "product": "Oral hygiene products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -189,10 +189,10 @@
         "product": "Soda/Pop",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -201,10 +201,10 @@
         "product": "Soda/Pop",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -213,10 +213,10 @@
         "product": "Soda/Pop",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -225,10 +225,10 @@
         "product": "Bottled water",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -237,10 +237,10 @@
         "product": "Sports drink",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -249,10 +249,10 @@
         "product": "Cranberry and grapefruit products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -261,10 +261,10 @@
         "product": "Beef jerky",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -273,10 +273,10 @@
         "product": "Cooking spray",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -285,10 +285,10 @@
         "product": "Popcorn",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -297,10 +297,10 @@
         "product": "Whipped cream",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -309,10 +309,10 @@
         "product": "Peanut butter",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -321,10 +321,10 @@
         "product": "Popcorn",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -333,10 +333,10 @@
         "product": "Pancake mixes and syrup",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -345,10 +345,10 @@
         "product": "Pudding",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -357,10 +357,10 @@
         "product": "Canned pasta",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -369,10 +369,10 @@
         "product": "Frozen dinner",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -381,10 +381,10 @@
         "product": "Lip balm",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -393,10 +393,10 @@
         "product": "Ibuprofen - pain reliever",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -405,10 +405,10 @@
         "product": "Heating pads",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -417,10 +417,10 @@
         "product": "Cold medicine",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -429,10 +429,10 @@
         "product": "Vitamin supplements",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -441,10 +441,10 @@
         "product": "Alprazolam - anxiety disorders",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -453,10 +453,10 @@
         "product": "Sertraline - mood and anxiety disorders",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -465,10 +465,10 @@
         "product": "Deloradtadine - allergies",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -477,10 +477,10 @@
         "product": "Paper products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -489,10 +489,10 @@
         "product": "Toilet paper",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -501,10 +501,10 @@
         "product": "Paper towels",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -513,10 +513,10 @@
         "product": "Eye drops",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -525,10 +525,10 @@
         "product": "Ibuprofen - pain reliever",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -537,10 +537,10 @@
         "product": "Skin and face care",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -549,10 +549,10 @@
         "product": "Skin care products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -561,10 +561,10 @@
         "product": "Acetaminophen - pain reliever",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -573,10 +573,10 @@
         "product": "Antibiotics",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -585,10 +585,10 @@
         "product": "Mouthwash",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -597,10 +597,10 @@
         "product": "Oral hygiene products",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -609,10 +609,10 @@
         "product": "Adhesive bandages",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -621,10 +621,10 @@
         "product": "Diphenhydramine - allergies",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -633,10 +633,10 @@
         "product": "Hand sanitizer",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -645,10 +645,10 @@
         "product": "Eyelid and eyelash cleanser",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -657,10 +657,10 @@
         "product": "Nasal spray",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -669,10 +669,10 @@
         "product": "Antacid",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -681,10 +681,10 @@
         "product": "Flu medicine",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -693,10 +693,10 @@
         "product": "Nicotine replacement",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -705,10 +705,10 @@
         "product": "Multivitamin",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -717,10 +717,10 @@
         "product": "Contact lenses",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -729,10 +729,10 @@
         "product": "Fluoxetine - mood and anxiety disorders",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -741,10 +741,10 @@
         "product": "Antacid",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -753,10 +753,10 @@
         "product": "Loratadine - allergies",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -765,10 +765,10 @@
         "product": "Menstrual cramping",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     },
     {
@@ -777,10 +777,10 @@
         "product": "Multivitamin",
         "logo": false,
         "warnings": {
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
+            "Prison labor": [],
+            "Child labor": [],
+            "Low wages": [],
+            "Heavy polluter": []
         }
     }
-}
+]
