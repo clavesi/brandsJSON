@@ -2,7 +2,7 @@
     {
         "name": "Coca-Cola",
         "product": "Laundry detergents",
-        "logo": false,
+        "logo": true,
         "warnings": [
             "Heavy polluter"
         ],
@@ -13,7 +13,7 @@
     {
         "name": "Nestlé",
         "product": "Laundry detergents",
-        "logo": false,
+        "logo": true,
         "warnings": [
             "Heavy polluter"
         ],
@@ -24,7 +24,7 @@
     {
         "name": "PepsiCo",
         "product": "Laundry detergents",
-        "logo": false,
+        "logo": true,
         "warnings": [
             "Heavy polluter"
         ],
