@@ -1,1044 +1,112 @@
 [
     {
-        "name": "Bounty",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Paper towels and napkins",
-        "logo": true,
-        "warnings": [
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.bustle.com/rule-breakers/what-does-prison-labor-really-mean-should-we-abolish-it-27626108",
-            "https://www.bustle.com/rule-breakers/what-does-prison-labor-really-mean-should-we-abolish-it-27626108"
-        ]
-    },
-    {
-        "name": "Tide",
-        "parent": "Procter & Gamble (P&G)",
+        "name": "Coca-Cola",
         "product": "Laundry detergents",
         "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Tampax",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Tampons",
+        "name": "Nestlé",
+        "product": "Laundry detergents",
         "logo": true,
         "warnings": [
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.bustle.com/rule-breakers/what-does-prison-labor-really-mean-should-we-abolish-it-27626108",
-            "https://www.bustle.com/rule-breakers/what-does-prison-labor-really-mean-should-we-abolish-it-27626108"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Always",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Menstrual hygiene products",
+        "name": "PepsiCo",
+        "product": "Laundry detergents",
         "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Febreze",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Air freshener",
+        "name": "Mondelēz",
+        "product": "Laundry detergents",
         "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Gain",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Detergent",
-        "logo": false,
+        "name": "Unilever",
+        "product": "Laundry detergents",
+        "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Swiffer",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Cleaning products",
-        "logo": false,
+        "name": "Mars",
+        "product": "Laundry detergents",
+        "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Pantene",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Hair care products",
-        "logo": false,
+        "name": "Procter & Gamble",
+        "product": "Laundry detergents",
+        "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Head & Shoulders",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Shampoo",
-        "logo": false,
+        "name": "Colgate-Palmolive",
+        "product": "Laundry detergents",
+        "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Olay",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Skin care products",
-        "logo": false,
+        "name": "Philip Morris",
+        "product": "Laundry detergents",
+        "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     },
     {
-        "name": "Old Spice",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Men's grooming products",
-        "logo": false,
+        "name": "Perfetti Van Melle",
+        "product": "Laundry detergents",
+        "logo": true,
         "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
             "Heavy polluter"
         ],
         "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Gillette",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Razors",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Venus",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Razors",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Crest",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Oral hygiene products",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Oral-B",
-        "parent": "Procter & Gamble (P&G)",
-        "product": "Oral hygiene products",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Pepsi",
-        "parent": "PepsiCo",
-        "product": "Soda/Pop",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Mountain Dew",
-        "parent": "PepsiCo",
-        "product": "Soda/Pop",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Dr. Pepper",
-        "parent": "Keurig Dr Pepper",
-        "product": "Soda/Pop",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Aquafina",
-        "parent": "PepsiCo",
-        "product": "Bottled water",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Gatorade",
-        "parent": "PepsiCo",
-        "product": "Sports drink",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Ocean Spray",
-        "parent": "Ocean Spray",
-        "product": "Cranberry and grapefruit products",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Slim Jim",
-        "parent": "Conagra",
-        "product": "Beef jerky",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "PAM",
-        "parent": "Conagra",
-        "product": "Cooking spray",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Orville Redenbacher's",
-        "parent": "Conagra",
-        "product": "Popcorn",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Reddi-Wip",
-        "parent": "Conagra",
-        "product": "Whipped cream",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Peter Pan",
-        "parent": "Conagra",
-        "product": "Peanut butter",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Act II",
-        "parent": "Conagra",
-        "product": "Popcorn",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Aunt Jemima",
-        "parent": "PepsiCo",
-        "product": "Pancake mixes and syrup",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Hunt's Snack Pack",
-        "parent": "Conagra",
-        "product": "Pudding",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Chef Boyardee",
-        "parent": "Conagra",
-        "product": "Canned pasta",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Kid Cuisine",
-        "parent": "Conagra",
-        "product": "Frozen dinner",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "ChapStick",
-        "parent": "Pfizer",
-        "product": "Lip balm",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Advil",
-        "parent": "Pfizer",
-        "product": "Ibuprofen - pain reliever",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "ThermaCare",
-        "parent": "Angelini",
-        "product": "Heating pads",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Robitussin",
-        "parent": "Pfizer",
-        "product": "Cold medicine",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Emergen-C",
-        "parent": "Pfizer ",
-        "product": "Vitamin supplements",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Xanax",
-        "parent": "Pfizer",
-        "product": "Alprazolam - anxiety disorders",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Zoloft",
-        "parent": "Pfizer",
-        "product": "Sertraline - mood and anxiety disorders",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Clarinex",
-        "parent": "Merck & Co.",
-        "product": "Deloradtadine - allergies",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Dixie",
-        "parent": "Koch Industries",
-        "product": "Paper products",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Angel Soft",
-        "parent": "Koch Industries",
-        "product": "Toilet paper",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Brawny",
-        "parent": "Koch Industries",
-        "product": "Paper towels",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Visine/Vispring",
-        "parent": "Johnson & Johnson",
-        "product": "Eye drops",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Motrin",
-        "parent": "Johnson & Johnson",
-        "product": "Ibuprofen - pain reliever",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Neutrogena",
-        "parent": "Johnson & Johnson",
-        "product": "Skin and face care",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Clean & Clear",
-        "parent": "Johnson & Johnson",
-        "product": "Skin care products",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Tylenol",
-        "parent": "Johnson & Johnson",
-        "product": "Acetaminophen - pain reliever",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Neosporin",
-        "parent": "Johnson & Johnson",
-        "product": "Antibiotics",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Listerine",
-        "parent": "Johnson & Johnson",
-        "product": "Mouthwash",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Biotene",
-        "parent": "GSK",
-        "product": "Oral hygiene products",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Band-Aid",
-        "parent": "Johnson & Johnson",
-        "product": "Adhesive bandages",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Benadryl",
-        "parent": "Johnson & Johnson",
-        "product": "Diphenhydramine - allergies",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Purell",
-        "parent": "Gojo Industries",
-        "product": "Hand sanitizer",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Avenova",
-        "parent": "NovaBay",
-        "product": "Eyelid and eyelash cleanser",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Flonase",
-        "parent": "GSK",
-        "product": "Nasal spray",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Tums",
-        "parent": "GSK",
-        "product": "Antacid",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "TheraFlu",
-        "parent": "GSK",
-        "product": "Flu medicine",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Nicorette",
-        "parent": "GSK (US) / Johnson & Johnson (Elsewhere)",
-        "product": "Nicotine replacement",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Flintstones Gummies",
-        "parent": "Bayer",
-        "product": "Multivitamin",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Acuvue",
-        "parent": "Johnson & Johnson",
-        "product": "Contact lenses",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Prozac",
-        "parent": "Eli Lilly",
-        "product": "Fluoxetine - mood and anxiety disorders",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Alka-Seltzer",
-        "parent": "Bayer",
-        "product": "Antacid",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Claritin",
-        "parent": "Merck & Co.",
-        "product": "Loratadine - allergies",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "Midol",
-        "parent": "Bayer",
-        "product": "Menstrual cramping",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
-        ]
-    },
-    {
-        "name": "One A Day",
-        "parent": "Bayer",
-        "product": "Multivitamin",
-        "logo": false,
-        "warnings": [
-            "Prison labor",
-            "Child labor",
-            "Low wages",
-            "Heavy polluter"
-        ],
-        "sources": [
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html",
-            "https://www.nytimes.com/2020/07/14/us/coronavirus-international-foreign-student-visas.html"
+            "https://www.breakfreefromplastic.org/globalbrandauditreport2019/"
         ]
     }
 ]
