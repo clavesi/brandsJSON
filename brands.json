@@ -1,7 +1,7 @@
 [
     {
-        "name": "Coca-Cola",
-        "product": "Laundry detergents",
+        "name": "Coca-Cola Company",
+        "product": "Drinks",
         "logo": true,
         "warnings": [
             "Heavy polluter"
@@ -12,7 +12,7 @@
     },
     {
         "name": "Nestlé",
-        "product": "Laundry detergents",
+        "product": "Food and Drinks",
         "logo": true,
         "warnings": [
             "Heavy polluter"
@@ -23,7 +23,7 @@
     },
     {
         "name": "PepsiCo",
-        "product": "Laundry detergents",
+        "product": "Food and Drinks",
         "logo": true,
         "warnings": [
             "Heavy polluter"
@@ -34,7 +34,7 @@
     },
     {
         "name": "Mondelēz",
-        "product": "Laundry detergents",
+        "product": "Food and Drinks",
         "logo": false,
         "warnings": [
             "Heavy polluter"
@@ -45,7 +45,7 @@
     },
     {
         "name": "Unilever",
-        "product": "Laundry detergents",
+        "product": "Consumer goods",
         "logo": false,
         "warnings": [
             "Heavy polluter"
@@ -56,7 +56,7 @@
     },
     {
         "name": "Mars",
-        "product": "Laundry detergents",
+        "product": "Food",
         "logo": false,
         "warnings": [
             "Heavy polluter"
@@ -67,7 +67,7 @@
     },
     {
         "name": "Procter & Gamble",
-        "product": "Laundry detergents",
+        "product": "Consumer goods",
         "logo": false,
         "warnings": [
             "Heavy polluter"
@@ -78,7 +78,7 @@
     },
     {
         "name": "Colgate-Palmolive",
-        "product": "Laundry detergents",
+        "product": "Consumer goods",
         "logo": false,
         "warnings": [
             "Heavy polluter"
@@ -89,7 +89,7 @@
     },
     {
         "name": "Philip Morris",
-        "product": "Laundry detergents",
+        "product": "Tobacco",
         "logo": false,
         "warnings": [
             "Heavy polluter"
@@ -100,7 +100,7 @@
     },
     {
         "name": "Perfetti Van Melle",
-        "product": "Laundry detergents",
+        "product": "Sweets and Gum",
         "logo": false,
         "warnings": [
             "Heavy polluter"
