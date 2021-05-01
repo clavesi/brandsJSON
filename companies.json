@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Amazon",
+        "description": "Lorem ipsum",
+        "logo": "amazon.png"
+    },
+    {
+        "name": "Coca-Cola",
+        "description": "Lorem ipsum",
+        "logo": "coca-cola.jpg"
+    },
+    {
+        "name": "Colgate-Palmolive",
+        "description": "Lorem ipsum",
+        "logo": "colgate.jpg"
+    },
+    {
+        "name": "Nestle",
+        "description": "Lorem ipsum",
+        "logo": "nestle.jpg"
+    },
+    {
+        "name": "P&G",
+        "description": "Lorem ipsum",
+        "logo": "p&g.jpg"
+    },
+    {
+        "name": "Pepsi",
+        "description": "Lorem ipsum",
+        "logo": "pepsico.png"
+    },
+    {
+        "name": "Walmart",
+        "description": "Lorem ipsum",
+        "logo": "walmart.png"
+    }
+]
